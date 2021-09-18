@@ -33,6 +33,8 @@ exports.config = {
     //
     // ============
     // Capabilities
+    // driver = wd.promiseRemote("http://hub-cloud.browserstack.com/wd/hub");
+    // https://github.com/browserstack/node-appium-app-browserstack/blob/master/android/BrowserStackSample.js
     // ============
     // Define your capabilities here. WebdriverIO can run multiple capabilities at the same
     // time. Depending on the number of capabilities, WebdriverIO launches several test

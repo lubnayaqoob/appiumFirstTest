@@ -25,8 +25,6 @@ describe('Dialog', ()=>{
         dialog.dialogOkBtn.click();
     });
 
-
-
     it('Verify the repeat alarm options has attribute checked set to true when selected', ()=>{
         let isChecked, text;
 
